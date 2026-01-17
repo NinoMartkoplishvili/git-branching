@@ -11,7 +11,12 @@ public class Main {
         System.out.println("Something was done");
 
     }
+
     public static int userTwoDoesSomething(){
         return 900;
+}
+    public static String amazingMethod(){
+        return "Amazing Spidermen";
+
     }
 }
