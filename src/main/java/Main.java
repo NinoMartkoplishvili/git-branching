@@ -11,4 +11,7 @@ public class Main {
         System.out.println("Something was done");
 
     }
+    public static int userTwoDoesSomething(){
+        return 900;
+    }
 }
